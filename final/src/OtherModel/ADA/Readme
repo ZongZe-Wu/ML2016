@@ -1,0 +1,9 @@
+
+======Readme!Readme!======
+
+1.Be sure that all files shoould be put under the same directory with the all the training datas.
+
+2.execute the command below
+
+  python adaboost_RFC.py
+

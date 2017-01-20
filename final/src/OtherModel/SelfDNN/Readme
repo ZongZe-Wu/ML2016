@@ -1,0 +1,12 @@
+
+======Readme!Readme!======
+
+1.Be sure that all files shoould be put under the same directory with the all the training datas.
+
+2.execute the command below
+
+  python train42.py
+
+3.Then execute this
+  
+  python predict42.py  
