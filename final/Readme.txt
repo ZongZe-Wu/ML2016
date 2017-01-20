@@ -1,0 +1,6 @@
+@Please go to the /src folder and use this command to execute the
+ program.
+
+./final.sh <inpput directory> <output file name>
+
+@The prediction file named <output file name> will be generated.
